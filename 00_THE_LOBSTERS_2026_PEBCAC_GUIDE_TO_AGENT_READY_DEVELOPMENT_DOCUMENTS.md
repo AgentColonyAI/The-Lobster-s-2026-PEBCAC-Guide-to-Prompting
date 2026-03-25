@@ -1,4 +1,8 @@
-# The Lobster’s 2026 PEBCAC Guide to Agent-Ready Development Documents
+# The Lobster’s 2026
+
+<img width="1365" height="1024" alt="e5402e9c-d0f5-4b0e-8ff6-6a9777dbec39" src="https://github.com/user-attachments/assets/6ceea326-15a2-46a4-876a-73c98afc8f5d" />
+ 
+PEBCAC Guide to Agent-Ready Development Documents
 
 This guide is written for humans.
 
