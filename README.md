@@ -1,4 +1,3 @@
-
 <img width="1536" height="1024" alt="The Lobster&#39;s guide to prompting" src="https://github.com/user-attachments/assets/91c5cebb-e75b-47ad-a763-cb19758ad7e9" />
 
 # Agent-Ready Development Documents Package
